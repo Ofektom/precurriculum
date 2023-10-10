@@ -21,6 +21,7 @@ public class Main {
             System.out.print(i + ", ");
         }
         System.out.println(" is " + min);
+
     }
 
     private static void index() {
